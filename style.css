@@ -1,0 +1,34 @@
+h1 {
+	text-align:center;
+	color:#ffffff;
+	font-family: "Arial", Arial, sans-serif;
+	font-size: 32px;
+}
+
+p, div {
+	text-align:center;
+	color:#ffffff;
+	font-family: "Arial", Arial, sans-serif;
+	font-size: 16px;
+}
+
+body {
+	background-color:#2c2f33;
+}
+
+img {
+	display: block;
+}
+
+button {
+	background-color: #7289da;
+	border: none;
+	border-radius: 12px;
+	color: white;
+	padding: 15px 32px;
+	margin: 0 auto;
+	height: 50px;
+	width: 150px;
+	display: inline-block;
+	font-size: 16px;
+}
